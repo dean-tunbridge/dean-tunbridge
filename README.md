@@ -10,8 +10,8 @@
     <img src="https://github.com/user-attachments/assets/a3e40bf1-82d5-4907-b3bd-10d2eb4b00f5" alt="ReactQuery" width="50"/>
     <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind" width="50"/>
     <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" width="50" />
-    <img src="https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png" alt="Auth0" width="50"/>
     <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="ubuntu" width="50"/>
+    <img src="https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png" alt="Auth0" width="50"/>
    
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" width="50"/>
 </div>
