@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m @dean-tunbridge 
+# 😸 Hi, I’m @dean-tunbridge 
 <br/>
 <div >
     <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="50"/>
@@ -17,7 +17,7 @@
 </div>
 <br/>
 
-# 🌱 I’m currently learning ...
+# 💻 I’m currently learning ...
 <div >
      <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="node.js" width="50"/>
     <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" width="50"/>
@@ -27,7 +27,7 @@
   </div>
 <br/>
 
-# ⚡ Fun fact: …
+# 💡 Fun fact: …
 
 <img src="https://www.codewars.com/users/dean-tunbridge/badges/large" alt="CodeWars" width="500"/>
   
