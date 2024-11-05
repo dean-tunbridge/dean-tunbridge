@@ -30,7 +30,7 @@
 # 💡 Fun fact: …
 
 <img src="https://www.codewars.com/users/dean-tunbridge/badges/large" alt="CodeWars" width="500"/>
-  
+
 
 
 <!---
