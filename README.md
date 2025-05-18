@@ -16,8 +16,7 @@
 # 💻 I’m currently learning ...
 <div >
      <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="node.js" width="50"/>
-    <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" width="50"/>
-    <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="50"/>
+   
   <br/>
   </div>
 <br/>
