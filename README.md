@@ -24,8 +24,11 @@
 
 # 💻 I’m currently learning ...
 <div >
+     <img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="C" width="50"/>
      <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="node.js" width="50"/>
      <img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vuejs" width="50"/>
+
+     https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png
      
    
   <br/>
